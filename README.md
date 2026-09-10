@@ -231,3 +231,6 @@ This repository serves as the official landing page for Tampermonkey. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Tampermonkey today!**
+
+---
+**Last updated:** 2026-09-10 16:53:22 UTC
