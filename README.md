@@ -233,4 +233,4 @@ This repository serves as the official landing page for Tampermonkey. The softwa
 **Get the most recent version of Tampermonkey today!**
 
 ---
-**Last updated:** 2026-10-01 04:11:21 UTC
+**Last updated:** 2026-10-01 11:22:04 UTC
